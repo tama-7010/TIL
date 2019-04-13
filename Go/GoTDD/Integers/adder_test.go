@@ -1,4 +1,6 @@
-package integer
+package Integers
+
+import "testing"
 
 func TestAdder(t *testing.T) {
 	sum := Add(2, 2)
